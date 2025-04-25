@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"MovingwithKeys",
+  "name":"MovingwithKeys",
+  "parent":{
+    "name":"Notes",
+    "path":"folders/Notes.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

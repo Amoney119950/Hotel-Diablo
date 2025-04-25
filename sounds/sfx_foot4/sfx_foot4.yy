@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_foot4",
+  "audioGroupId":{
+    "name":"audioground_sfx",
+    "path":"audiogroups/audioground_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.0,
+  "name":"sfx_foot4",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_foot4",
+  "type":0,
+  "volume":0.23,
+}
